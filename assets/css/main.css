@@ -1102,7 +1102,7 @@ main {
 	  -webkit-text-stroke: 4px #ffffff;
 	  font-variation-settings: "wght" 900, "ital" 1;
 	  color: transparent;
-	  text-shadow: 10px 10px 0px #07bccc, 15px 15px 0px #01e647,
-		20px 20px 0px #e9b701, 25px 25px 0px #f40468, 45px 45px 10px #482896;
+	  text-shadow: 10px 10px 0px #07bccc, 15px 15px 0px #dddddd,
+		20px 20px 0px #cccccc, 25px 25px 0px #bbbbbb, 45px 45px 10px #aaaaaa;
 	}
 }
